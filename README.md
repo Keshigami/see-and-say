@@ -216,7 +216,7 @@ lsof -ti:8765 | xargs kill -9    # Gun.js
   ![Mira AI Badge](https://img.shields.io/badge/Created_by-Mira_AI-purple)  
   The product visionary barely holding the reins (with a smile) while steering this wild AI collaboration toward a focused, user-centered solution.
 
-* ⚡ **Maximus** - CalTech Contributor & "Vision"ary  
+* ⚡ **Maximus Friedrich Baluyot** - CalTech Contributor & "Vision"ary  
   ![CalTech Badge](https://img.shields.io/badge/Precision_from-CalTech-orange)  
   The technical wizard bringing CalTech precision, system optimization, and innovative insights to make everything work seamlessly.
 
